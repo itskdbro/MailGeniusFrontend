@@ -20,7 +20,7 @@ function App() {
         backgroundImage: `url(${bg2})`,
       }}
     >
-      <Card className="relative w-full max-h-[90vh] max-w-4xl mx-auto bg-zinc-950 outline-none text-white rounded-2xl shadow-lg border border-white border-opacity-20 bg-black/50 backdrop-blur-lg overflow-hidden">
+      <Card className="relative w-full px-10 max-h-[90vh] max-w-4xl mx-auto bg-zinc-950 outline-none text-white rounded-2xl shadow-lg border border-white border-opacity-20 bg-black/50 backdrop-blur-lg overflow-hidden">
         <CardHeader>
           <div className="flex flex-col items-center justify-center text-center">
             <div className="flex items-center gap-2">
