@@ -15,7 +15,7 @@ import {
 function App() {
   return (
     <div
-      className="w-full min-h-screen px-4 flex justify-center items-center "
+      className="w-full min-h-screen px-4 flex justify-center items-center overflow-hidden"
       style={{
         backgroundImage: `url(${bg2})`,
       }}
